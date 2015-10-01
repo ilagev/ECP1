@@ -16,6 +16,7 @@ public class C21Test {
     public void TestSumar() {
         assertEquals("m1", c.m1());
         assertEquals("m2", c.m2());
+        assertEquals("m3", c.m3());
     }
 
 }
