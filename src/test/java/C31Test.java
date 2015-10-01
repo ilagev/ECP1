@@ -16,6 +16,7 @@ public class C31Test {
     public void TestSumar() {
         assertEquals("m1", c.m1());
         assertEquals("m2", c.m2());
+        assertEquals("mB", c.mB());
     }
 
 }
